@@ -1,0 +1,2 @@
+"D?n c? con kh? cung hi?u du?c l?nh Git" 
+"add: Dang ky thay d?i trong index" 
